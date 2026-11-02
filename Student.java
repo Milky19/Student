@@ -9,8 +9,5 @@ public class Student {
         System.out.println("My Roll Number is: " + rollno);
         System.out.println("Thanks for using My Application");
         System.out.println("Thanks for joing today session Jenkins");
-        System.out.println("Bye BYe Bye Bye----");
-        System.out.println("THIS IS POLL SCM CONCEPT");
-        System.out.println("webhook concept implemented here");
     }
 }
