@@ -9,6 +9,7 @@ public class Student {
         System.out.println("My Roll Number is: " + rollno);
         System.out.println("Thanks for using My Application");
         System.out.println("POLL SCM MECHANISM ");
+         System.out.println("JENKINS-WEBHOOK MECHANISM ");
        
     }
 }
